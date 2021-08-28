@@ -1,4 +1,4 @@
 FROM OPENJDK:8
 EXPOSE 8080
-ADD target/cici-demo-sample.jar cici-demo-sample.jar
-ENTRYPOINT ["java","-jar","/cici-demo-sample.jar"]
+ADD target/cicl-demo-sample.jar cicl-demo-sample.jar
+ENTRYPOINT ["java","-jar","/cicl-demo-sample.jar"]

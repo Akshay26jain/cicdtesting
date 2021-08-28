@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>cici-demo-sample</finalName>
+		<finalName>cicl-demo-sample</finalName>
 	</build>
 
 </project>
