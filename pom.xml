@@ -8,9 +8,6 @@
 		<version>2.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<build>
-		<finalName>cici-demo-sample</finalName>
-	</build>
 	<groupId>com.akshay.cicldemo</groupId>
 	<artifactId>cicldemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
@@ -39,6 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>cici-demo-sample</finalName>
 	</build>
 
 </project>
