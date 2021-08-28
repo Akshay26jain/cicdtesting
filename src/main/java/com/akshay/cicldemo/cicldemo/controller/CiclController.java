@@ -10,4 +10,9 @@ public class CiclController {
   public String getALlData(){
     return "Hello Akshay!";
   }
+
+  @GetMapping("/getOne")
+  public String getOne(){
+    return "Hello One" ;
+  }
 }
